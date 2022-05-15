@@ -1,0 +1,15 @@
+{
+    "firstname": "James",
+    "lastname": "Oak",
+    "fullname": "James Oak",
+    "email": "jamesoak@gmai.com",
+    "gender": "Male",
+    "mobile": "2457758979",
+    "dateofbirth": "25 February,1930",
+    "subjects": "Economics",
+    "hobbies": "Music",
+    "picture": "NGNL.png",
+    "address": "",
+    "stateAndCity": "NCR Delh"
+    
+}
